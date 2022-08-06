@@ -1,7 +1,7 @@
 {
   "name": "coc-csharp-ls",
   "version": "0.0.1",
-  "description": "csharp-ls exension for coc.nvim",
+  "description": "csharp-ls extension for coc.nvim",
   "author": "wongxy <xiyao.wong@foxmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
